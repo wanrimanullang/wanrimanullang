@@ -1,25 +1,10 @@
-# `HOLA THERE`👋🏾 👩🏾‍💻
-<!--**wanrimanullang/wanrimanullang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Hi there, I'm Wanri Parasian Simanullang, a Fullstack Developer with expertise in Vue, Laravel, React, PHP, JavaScript, SQL, and AWS. I have 2 years of experience in developing web applications.
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/wanrimanullang" alt="profile views"> •  
-  <br> •
-  <a href="http://wanrimanullang.my.id/?i=1">Blog</a> •
-</p>
-
-
-Enthusiastic in the field of IT Development 
-since entering college and until now has experience of 
-approximately two years in several large companies
-and companies that are just starting out. several areas 
-of expertise Software Programmer, Mobile App 
-Development, Fullstack,<br> Data-Anaylst, Data Engineer 
-and Software Quality Assurance.
-
-Here are some ideas to get you started:
-Be the salt and light world and please dont gift limit yourself.
-- 🔭 I’m currently working on micromulticopter aero technology UAV
-- 🌱 I’m currently learning telkom university bandung, indonesia
-- 👯 I’m looking to collaborate on software developer
-- 📫 How to reach me: wanriparasians@gmail.com
-
+Skills<br>
+1. Vue.js, Vuex, Vue Router, Vuetify, Element, Bootstrap-Vue<br>
+2. Laravel, Eloquent ORM, Blade, Laravel Mix, Forge, Envoyer<br>
+3. React, Redux, React Router, Next.js, Material-UI, Ant Design<br>
+4. PHP, Laravel, CodeIgniter, Symfony, Zend, Composer, PHPUnit<br>
+5. JavaScript, jQuery, Underscore.js, Lodash, ES6, Webpack<br>
+6. SQL, MySQL, PostgreSQL, SQLite<br>
+7. AWS, EC2, S3, RDS, Lambda, Elastic Beanstalk, CloudFormation<br>
