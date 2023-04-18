@@ -1,4 +1,4 @@
-Hi there, I'm Wanri Parasian Simanullang, a Fullstack Developer with expertise in Vue, Laravel, React, PHP, JavaScript, SQL, and AWS. I have 2 years of experience in developing web applications.
+Hi there, I'm Wanri Parasian Simanullang, a Fullstack Developer with expertise in Vue, Laravel, React, PHP, JavaScript, SQL, and AWS. I have 5 years of experience in developing web applications.
 
 Skills<br>
 1. Vue.js, Vuex, Vue Router, Vuetify, Element, Bootstrap-Vue<br>
