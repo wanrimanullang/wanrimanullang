@@ -19,7 +19,7 @@
 <a href="mailto:wanriparasians@gmail.com">
   <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/wanriparasians">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO">
@@ -52,30 +52,9 @@
 
 </div>
 
----
-
-## 🧩 What I’m Building
-- ✅ **Insurance Platform**: policy management + claims flow + payment
-- ✅ **Automation Tools**: internal workflow, reporting, monitoring
-- ✅ **UI/UX Components**: reusable design system & dashboard
-
----
-
-## 🚀 Featured Projects (Pin)
-> Ganti `repo=` dengan repo kamu
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight" />
-</a>
-
-</div>
-
----
 
 ## 📊 RGB Stats
 <div align="center">
